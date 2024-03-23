@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\WindowsFormsAppLabaOS\WindowsFormsAppLabaOS\bin\Debug\WindowsFormsAppLabaOS.exe.config
+C:\Users\admin\source\repos\WindowsFormsAppLabaOS\WindowsFormsAppLabaOS\bin\Debug\WindowsFormsAppLabaOS.exe
+C:\Users\admin\source\repos\WindowsFormsAppLabaOS\WindowsFormsAppLabaOS\bin\Debug\WindowsFormsAppLabaOS.pdb
+C:\Users\admin\source\repos\WindowsFormsAppLabaOS\WindowsFormsAppLabaOS\obj\Debug\WindowsFormsAppLabaOS.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\WindowsFormsAppLabaOS\WindowsFormsAppLabaOS\obj\Debug\WindowsFormsAppLabaOS.Form1.resources
+C:\Users\admin\source\repos\WindowsFormsAppLabaOS\WindowsFormsAppLabaOS\obj\Debug\WindowsFormsAppLabaOS.Properties.Resources.resources
+C:\Users\admin\source\repos\WindowsFormsAppLabaOS\WindowsFormsAppLabaOS\obj\Debug\WindowsFormsAppLabaOS.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\WindowsFormsAppLabaOS\WindowsFormsAppLabaOS\obj\Debug\WindowsFormsAppLabaOS.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\WindowsFormsAppLabaOS\WindowsFormsAppLabaOS\obj\Debug\WindowsFormsAppLabaOS.exe
+C:\Users\admin\source\repos\WindowsFormsAppLabaOS\WindowsFormsAppLabaOS\obj\Debug\WindowsFormsAppLabaOS.pdb
